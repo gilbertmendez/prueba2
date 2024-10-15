@@ -1,4 +1,4 @@
 Esto archivos tiene que tener mis datos: 
-Nombre: 
-Edad: 
-Altura: 
+Nombre: Gilbert Mendez
+Edad: 27
+Altura: 1.60m
